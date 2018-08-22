@@ -1,7 +1,7 @@
 Round 1
  27 113 958 p3.c
-hello world (pid:3883)
-hello, I am parent of 3884 (rc_wait:3884) (pid:3883)
+hello world (pid:3884)
+hello, I am parent of 3885 (rc_wait:3885) (pid:3884)
 
 Round 2
  27 113 958 p3.c
@@ -10,491 +10,491 @@ hello, I am parent of 3892 (rc_wait:3892) (pid:3891)
 
 Round 3
  27 113 958 p3.c
-hello world (pid:3899)
-hello, I am parent of 3900 (rc_wait:3900) (pid:3899)
+hello world (pid:3898)
+hello, I am parent of 3899 (rc_wait:3899) (pid:3898)
 
 Round 4
  27 113 958 p3.c
-hello world (pid:3907)
-hello, I am parent of 3908 (rc_wait:3908) (pid:3907)
+hello world (pid:3905)
+hello, I am parent of 3906 (rc_wait:3906) (pid:3905)
 
 Round 5
  27 113 958 p3.c
-hello world (pid:3915)
-hello, I am parent of 3916 (rc_wait:3916) (pid:3915)
+hello world (pid:3912)
+hello, I am parent of 3913 (rc_wait:3913) (pid:3912)
 
 Round 6
  27 113 958 p3.c
-hello world (pid:3923)
-hello, I am parent of 3924 (rc_wait:3924) (pid:3923)
+hello world (pid:3919)
+hello, I am parent of 3920 (rc_wait:3920) (pid:3919)
 
 Round 7
  27 113 958 p3.c
-hello world (pid:3931)
-hello, I am parent of 3932 (rc_wait:3932) (pid:3931)
+hello world (pid:3926)
+hello, I am parent of 3927 (rc_wait:3927) (pid:3926)
 
 Round 8
  27 113 958 p3.c
-hello world (pid:3939)
-hello, I am parent of 3940 (rc_wait:3940) (pid:3939)
+hello world (pid:3933)
+hello, I am parent of 3934 (rc_wait:3934) (pid:3933)
 
 Round 9
+ 27 113 958 p3.c
+hello world (pid:3940)
+hello, I am parent of 3941 (rc_wait:3941) (pid:3940)
+
+Round 10
  27 113 958 p3.c
 hello world (pid:3947)
 hello, I am parent of 3948 (rc_wait:3948) (pid:3947)
 
-Round 10
- 27 113 958 p3.c
-hello world (pid:3955)
-hello, I am parent of 3956 (rc_wait:3956) (pid:3955)
-
 Round 11
  27 113 958 p3.c
-hello world (pid:3963)
-hello, I am parent of 3964 (rc_wait:3964) (pid:3963)
+hello world (pid:3954)
+hello, I am parent of 3955 (rc_wait:3955) (pid:3954)
 
 Round 12
  27 113 958 p3.c
-hello world (pid:3971)
-hello, I am parent of 3972 (rc_wait:3972) (pid:3971)
+hello world (pid:3961)
+hello, I am parent of 3962 (rc_wait:3962) (pid:3961)
 
 Round 13
  27 113 958 p3.c
-hello world (pid:3979)
-hello, I am parent of 3980 (rc_wait:3980) (pid:3979)
+hello world (pid:3968)
+hello, I am parent of 3969 (rc_wait:3969) (pid:3968)
 
 Round 14
  27 113 958 p3.c
-hello world (pid:3987)
-hello, I am parent of 3988 (rc_wait:3988) (pid:3987)
+hello world (pid:3975)
+hello, I am parent of 3976 (rc_wait:3976) (pid:3975)
 
 Round 15
  27 113 958 p3.c
-hello world (pid:3995)
-hello, I am parent of 3996 (rc_wait:3996) (pid:3995)
+hello world (pid:3982)
+hello, I am parent of 3983 (rc_wait:3983) (pid:3982)
 
 Round 16
+ 27 113 958 p3.c
+hello world (pid:3989)
+hello, I am parent of 3990 (rc_wait:3990) (pid:3989)
+
+Round 17
+ 27 113 958 p3.c
+hello world (pid:3996)
+hello, I am parent of 3997 (rc_wait:3997) (pid:3996)
+
+Round 18
  27 113 958 p3.c
 hello world (pid:4003)
 hello, I am parent of 4004 (rc_wait:4004) (pid:4003)
 
-Round 17
- 27 113 958 p3.c
-hello world (pid:4011)
-hello, I am parent of 4012 (rc_wait:4012) (pid:4011)
-
-Round 18
- 27 113 958 p3.c
-hello world (pid:4019)
-hello, I am parent of 4020 (rc_wait:4020) (pid:4019)
-
 Round 19
  27 113 958 p3.c
-hello world (pid:4027)
-hello, I am parent of 4028 (rc_wait:4028) (pid:4027)
+hello world (pid:4010)
+hello, I am parent of 4011 (rc_wait:4011) (pid:4010)
 
 Round 20
  27 113 958 p3.c
-hello world (pid:4035)
-hello, I am parent of 4036 (rc_wait:4036) (pid:4035)
+hello world (pid:4017)
+hello, I am parent of 4018 (rc_wait:4018) (pid:4017)
 
 Round 21
  27 113 958 p3.c
-hello world (pid:4043)
-hello, I am parent of 4044 (rc_wait:4044) (pid:4043)
+hello world (pid:4024)
+hello, I am parent of 4025 (rc_wait:4025) (pid:4024)
 
 Round 22
  27 113 958 p3.c
-hello world (pid:4051)
-hello, I am parent of 4052 (rc_wait:4052) (pid:4051)
+hello world (pid:4031)
+hello, I am parent of 4032 (rc_wait:4032) (pid:4031)
 
 Round 23
+ 27 113 958 p3.c
+hello world (pid:4038)
+hello, I am parent of 4039 (rc_wait:4039) (pid:4038)
+
+Round 24
+ 27 113 958 p3.c
+hello world (pid:4045)
+hello, I am parent of 4046 (rc_wait:4046) (pid:4045)
+
+Round 25
+ 27 113 958 p3.c
+hello world (pid:4052)
+hello, I am parent of 4053 (rc_wait:4053) (pid:4052)
+
+Round 26
  27 113 958 p3.c
 hello world (pid:4059)
 hello, I am parent of 4060 (rc_wait:4060) (pid:4059)
 
-Round 24
- 27 113 958 p3.c
-hello world (pid:4067)
-hello, I am parent of 4068 (rc_wait:4068) (pid:4067)
-
-Round 25
- 27 113 958 p3.c
-hello world (pid:4075)
-hello, I am parent of 4076 (rc_wait:4076) (pid:4075)
-
-Round 26
- 27 113 958 p3.c
-hello world (pid:4083)
-hello, I am parent of 4084 (rc_wait:4084) (pid:4083)
-
 Round 27
  27 113 958 p3.c
-hello world (pid:4091)
-hello, I am parent of 4092 (rc_wait:4092) (pid:4091)
+hello world (pid:4066)
+hello, I am parent of 4067 (rc_wait:4067) (pid:4066)
 
 Round 28
  27 113 958 p3.c
-hello world (pid:4099)
-hello, I am parent of 4100 (rc_wait:4100) (pid:4099)
+hello world (pid:4073)
+hello, I am parent of 4074 (rc_wait:4074) (pid:4073)
 
 Round 29
  27 113 958 p3.c
-hello world (pid:4107)
-hello, I am parent of 4108 (rc_wait:4108) (pid:4107)
+hello world (pid:4080)
+hello, I am parent of 4081 (rc_wait:4081) (pid:4080)
 
 Round 30
+ 27 113 958 p3.c
+hello world (pid:4087)
+hello, I am parent of 4088 (rc_wait:4088) (pid:4087)
+
+Round 31
+ 27 113 958 p3.c
+hello world (pid:4094)
+hello, I am parent of 4095 (rc_wait:4095) (pid:4094)
+
+Round 32
+ 27 113 958 p3.c
+hello world (pid:4101)
+hello, I am parent of 4102 (rc_wait:4102) (pid:4101)
+
+Round 33
+ 27 113 958 p3.c
+hello world (pid:4108)
+hello, I am parent of 4109 (rc_wait:4109) (pid:4108)
+
+Round 34
  27 113 958 p3.c
 hello world (pid:4115)
 hello, I am parent of 4116 (rc_wait:4116) (pid:4115)
 
-Round 31
- 27 113 958 p3.c
-hello world (pid:4123)
-hello, I am parent of 4124 (rc_wait:4124) (pid:4123)
-
-Round 32
- 27 113 958 p3.c
-hello world (pid:4131)
-hello, I am parent of 4132 (rc_wait:4132) (pid:4131)
-
-Round 33
- 27 113 958 p3.c
-hello world (pid:4139)
-hello, I am parent of 4140 (rc_wait:4140) (pid:4139)
-
-Round 34
- 27 113 958 p3.c
-hello world (pid:4147)
-hello, I am parent of 4148 (rc_wait:4148) (pid:4147)
-
 Round 35
  27 113 958 p3.c
-hello world (pid:4155)
-hello, I am parent of 4156 (rc_wait:4156) (pid:4155)
+hello world (pid:4122)
+hello, I am parent of 4123 (rc_wait:4123) (pid:4122)
 
 Round 36
  27 113 958 p3.c
-hello world (pid:4163)
-hello, I am parent of 4164 (rc_wait:4164) (pid:4163)
+hello world (pid:4129)
+hello, I am parent of 4130 (rc_wait:4130) (pid:4129)
 
 Round 37
+ 27 113 958 p3.c
+hello world (pid:4136)
+hello, I am parent of 4137 (rc_wait:4137) (pid:4136)
+
+Round 38
+ 27 113 958 p3.c
+hello world (pid:4143)
+hello, I am parent of 4144 (rc_wait:4144) (pid:4143)
+
+Round 39
+ 27 113 958 p3.c
+hello world (pid:4150)
+hello, I am parent of 4151 (rc_wait:4151) (pid:4150)
+
+Round 40
+ 27 113 958 p3.c
+hello world (pid:4157)
+hello, I am parent of 4158 (rc_wait:4158) (pid:4157)
+
+Round 41
+ 27 113 958 p3.c
+hello world (pid:4164)
+hello, I am parent of 4165 (rc_wait:4165) (pid:4164)
+
+Round 42
  27 113 958 p3.c
 hello world (pid:4171)
 hello, I am parent of 4172 (rc_wait:4172) (pid:4171)
 
-Round 38
- 27 113 958 p3.c
-hello world (pid:4179)
-hello, I am parent of 4180 (rc_wait:4180) (pid:4179)
-
-Round 39
- 27 113 958 p3.c
-hello world (pid:4187)
-hello, I am parent of 4188 (rc_wait:4188) (pid:4187)
-
-Round 40
- 27 113 958 p3.c
-hello world (pid:4195)
-hello, I am parent of 4196 (rc_wait:4196) (pid:4195)
-
-Round 41
- 27 113 958 p3.c
-hello world (pid:4203)
-hello, I am parent of 4204 (rc_wait:4204) (pid:4203)
-
-Round 42
- 27 113 958 p3.c
-hello world (pid:4211)
-hello, I am parent of 4212 (rc_wait:4212) (pid:4211)
-
 Round 43
  27 113 958 p3.c
-hello world (pid:4219)
-hello, I am parent of 4220 (rc_wait:4220) (pid:4219)
+hello world (pid:4178)
+hello, I am parent of 4179 (rc_wait:4179) (pid:4178)
 
 Round 44
+ 27 113 958 p3.c
+hello world (pid:4185)
+hello, I am parent of 4186 (rc_wait:4186) (pid:4185)
+
+Round 45
+ 27 113 958 p3.c
+hello world (pid:4192)
+hello, I am parent of 4193 (rc_wait:4193) (pid:4192)
+
+Round 46
+ 27 113 958 p3.c
+hello world (pid:4199)
+hello, I am parent of 4200 (rc_wait:4200) (pid:4199)
+
+Round 47
+ 27 113 958 p3.c
+hello world (pid:4206)
+hello, I am parent of 4207 (rc_wait:4207) (pid:4206)
+
+Round 48
+ 27 113 958 p3.c
+hello world (pid:4213)
+hello, I am parent of 4214 (rc_wait:4214) (pid:4213)
+
+Round 49
+ 27 113 958 p3.c
+hello world (pid:4220)
+hello, I am parent of 4221 (rc_wait:4221) (pid:4220)
+
+Round 50
  27 113 958 p3.c
 hello world (pid:4227)
 hello, I am parent of 4228 (rc_wait:4228) (pid:4227)
 
-Round 45
- 27 113 958 p3.c
-hello world (pid:4235)
-hello, I am parent of 4236 (rc_wait:4236) (pid:4235)
-
-Round 46
- 27 113 958 p3.c
-hello world (pid:4243)
-hello, I am parent of 4244 (rc_wait:4244) (pid:4243)
-
-Round 47
- 27 113 958 p3.c
-hello world (pid:4251)
-hello, I am parent of 4252 (rc_wait:4252) (pid:4251)
-
-Round 48
- 27 113 958 p3.c
-hello world (pid:4259)
-hello, I am parent of 4260 (rc_wait:4260) (pid:4259)
-
-Round 49
- 27 113 958 p3.c
-hello world (pid:4267)
-hello, I am parent of 4268 (rc_wait:4268) (pid:4267)
-
-Round 50
- 27 113 958 p3.c
-hello world (pid:4275)
-hello, I am parent of 4276 (rc_wait:4276) (pid:4275)
-
 Round 51
+ 27 113 958 p3.c
+hello world (pid:4234)
+hello, I am parent of 4235 (rc_wait:4235) (pid:4234)
+
+Round 52
+ 27 113 958 p3.c
+hello world (pid:4241)
+hello, I am parent of 4242 (rc_wait:4242) (pid:4241)
+
+Round 53
+ 27 113 958 p3.c
+hello world (pid:4248)
+hello, I am parent of 4249 (rc_wait:4249) (pid:4248)
+
+Round 54
+ 27 113 958 p3.c
+hello world (pid:4255)
+hello, I am parent of 4256 (rc_wait:4256) (pid:4255)
+
+Round 55
+ 27 113 958 p3.c
+hello world (pid:4262)
+hello, I am parent of 4263 (rc_wait:4263) (pid:4262)
+
+Round 56
+ 27 113 958 p3.c
+hello world (pid:4269)
+hello, I am parent of 4270 (rc_wait:4270) (pid:4269)
+
+Round 57
+ 27 113 958 p3.c
+hello world (pid:4276)
+hello, I am parent of 4277 (rc_wait:4277) (pid:4276)
+
+Round 58
  27 113 958 p3.c
 hello world (pid:4283)
 hello, I am parent of 4284 (rc_wait:4284) (pid:4283)
 
-Round 52
+Round 59
  27 113 958 p3.c
-hello world (pid:4291)
-hello, I am parent of 4292 (rc_wait:4292) (pid:4291)
+hello world (pid:4290)
+hello, I am parent of 4291 (rc_wait:4291) (pid:4290)
 
-Round 53
+Round 60
  27 113 958 p3.c
-hello world (pid:4299)
-hello, I am parent of 4300 (rc_wait:4300) (pid:4299)
+hello world (pid:4297)
+hello, I am parent of 4298 (rc_wait:4298) (pid:4297)
 
-Round 54
+Round 61
  27 113 958 p3.c
-hello world (pid:4307)
-hello, I am parent of 4308 (rc_wait:4308) (pid:4307)
+hello world (pid:4304)
+hello, I am parent of 4305 (rc_wait:4305) (pid:4304)
 
-Round 55
+Round 62
  27 113 958 p3.c
-hello world (pid:4315)
-hello, I am parent of 4316 (rc_wait:4316) (pid:4315)
+hello world (pid:4311)
+hello, I am parent of 4312 (rc_wait:4312) (pid:4311)
 
-Round 56
+Round 63
  27 113 958 p3.c
-hello world (pid:4323)
-hello, I am parent of 4324 (rc_wait:4324) (pid:4323)
+hello world (pid:4318)
+hello, I am parent of 4319 (rc_wait:4319) (pid:4318)
 
-Round 57
+Round 64
  27 113 958 p3.c
-hello world (pid:4331)
-hello, I am parent of 4332 (rc_wait:4332) (pid:4331)
+hello world (pid:4325)
+hello, I am parent of 4326 (rc_wait:4326) (pid:4325)
 
-Round 58
+Round 65
+ 27 113 958 p3.c
+hello world (pid:4332)
+hello, I am parent of 4333 (rc_wait:4333) (pid:4332)
+
+Round 66
  27 113 958 p3.c
 hello world (pid:4339)
 hello, I am parent of 4340 (rc_wait:4340) (pid:4339)
 
-Round 59
+Round 67
  27 113 958 p3.c
-hello world (pid:4347)
-hello, I am parent of 4348 (rc_wait:4348) (pid:4347)
+hello world (pid:4346)
+hello, I am parent of 4347 (rc_wait:4347) (pid:4346)
 
-Round 60
+Round 68
  27 113 958 p3.c
-hello world (pid:4355)
-hello, I am parent of 4356 (rc_wait:4356) (pid:4355)
+hello world (pid:4353)
+hello, I am parent of 4354 (rc_wait:4354) (pid:4353)
 
-Round 61
+Round 69
  27 113 958 p3.c
-hello world (pid:4363)
-hello, I am parent of 4364 (rc_wait:4364) (pid:4363)
+hello world (pid:4360)
+hello, I am parent of 4361 (rc_wait:4361) (pid:4360)
 
-Round 62
+Round 70
  27 113 958 p3.c
-hello world (pid:4371)
-hello, I am parent of 4372 (rc_wait:4372) (pid:4371)
+hello world (pid:4367)
+hello, I am parent of 4368 (rc_wait:4368) (pid:4367)
 
-Round 63
+Round 71
  27 113 958 p3.c
-hello world (pid:4379)
-hello, I am parent of 4380 (rc_wait:4380) (pid:4379)
+hello world (pid:4374)
+hello, I am parent of 4375 (rc_wait:4375) (pid:4374)
 
-Round 64
+Round 72
  27 113 958 p3.c
-hello world (pid:4387)
-hello, I am parent of 4388 (rc_wait:4388) (pid:4387)
+hello world (pid:4381)
+hello, I am parent of 4382 (rc_wait:4382) (pid:4381)
 
-Round 65
+Round 73
+ 27 113 958 p3.c
+hello world (pid:4388)
+hello, I am parent of 4389 (rc_wait:4389) (pid:4388)
+
+Round 74
  27 113 958 p3.c
 hello world (pid:4395)
 hello, I am parent of 4396 (rc_wait:4396) (pid:4395)
 
-Round 66
+Round 75
  27 113 958 p3.c
-hello world (pid:4403)
-hello, I am parent of 4404 (rc_wait:4404) (pid:4403)
+hello world (pid:4402)
+hello, I am parent of 4403 (rc_wait:4403) (pid:4402)
 
-Round 67
+Round 76
  27 113 958 p3.c
-hello world (pid:4411)
-hello, I am parent of 4412 (rc_wait:4412) (pid:4411)
+hello world (pid:4409)
+hello, I am parent of 4410 (rc_wait:4410) (pid:4409)
 
-Round 68
+Round 77
  27 113 958 p3.c
-hello world (pid:4419)
-hello, I am parent of 4420 (rc_wait:4420) (pid:4419)
+hello world (pid:4416)
+hello, I am parent of 4417 (rc_wait:4417) (pid:4416)
 
-Round 69
+Round 78
  27 113 958 p3.c
-hello world (pid:4427)
-hello, I am parent of 4428 (rc_wait:4428) (pid:4427)
+hello world (pid:4423)
+hello, I am parent of 4424 (rc_wait:4424) (pid:4423)
 
-Round 70
+Round 79
  27 113 958 p3.c
-hello world (pid:4435)
-hello, I am parent of 4436 (rc_wait:4436) (pid:4435)
+hello world (pid:4430)
+hello, I am parent of 4431 (rc_wait:4431) (pid:4430)
 
-Round 71
+Round 80
  27 113 958 p3.c
-hello world (pid:4443)
-hello, I am parent of 4444 (rc_wait:4444) (pid:4443)
+hello world (pid:4437)
+hello, I am parent of 4438 (rc_wait:4438) (pid:4437)
 
-Round 72
+Round 81
+ 27 113 958 p3.c
+hello world (pid:4444)
+hello, I am parent of 4445 (rc_wait:4445) (pid:4444)
+
+Round 82
  27 113 958 p3.c
 hello world (pid:4451)
 hello, I am parent of 4452 (rc_wait:4452) (pid:4451)
 
-Round 73
+Round 83
  27 113 958 p3.c
-hello world (pid:4459)
-hello, I am parent of 4460 (rc_wait:4460) (pid:4459)
+hello world (pid:4458)
+hello, I am parent of 4459 (rc_wait:4459) (pid:4458)
 
-Round 74
+Round 84
  27 113 958 p3.c
-hello world (pid:4467)
-hello, I am parent of 4468 (rc_wait:4468) (pid:4467)
+hello world (pid:4465)
+hello, I am parent of 4466 (rc_wait:4466) (pid:4465)
 
-Round 75
+Round 85
  27 113 958 p3.c
-hello world (pid:4475)
-hello, I am parent of 4476 (rc_wait:4476) (pid:4475)
+hello world (pid:4472)
+hello, I am parent of 4473 (rc_wait:4473) (pid:4472)
 
-Round 76
+Round 86
  27 113 958 p3.c
-hello world (pid:4483)
-hello, I am parent of 4484 (rc_wait:4484) (pid:4483)
+hello world (pid:4479)
+hello, I am parent of 4480 (rc_wait:4480) (pid:4479)
 
-Round 77
+Round 87
  27 113 958 p3.c
-hello world (pid:4491)
-hello, I am parent of 4492 (rc_wait:4492) (pid:4491)
+hello world (pid:4486)
+hello, I am parent of 4487 (rc_wait:4487) (pid:4486)
 
-Round 78
+Round 88
  27 113 958 p3.c
-hello world (pid:4499)
-hello, I am parent of 4500 (rc_wait:4500) (pid:4499)
+hello world (pid:4493)
+hello, I am parent of 4494 (rc_wait:4494) (pid:4493)
 
-Round 79
+Round 89
+ 27 113 958 p3.c
+hello world (pid:4500)
+hello, I am parent of 4501 (rc_wait:4501) (pid:4500)
+
+Round 90
  27 113 958 p3.c
 hello world (pid:4507)
 hello, I am parent of 4508 (rc_wait:4508) (pid:4507)
 
-Round 80
+Round 91
  27 113 958 p3.c
-hello world (pid:4515)
-hello, I am parent of 4516 (rc_wait:4516) (pid:4515)
+hello world (pid:4514)
+hello, I am parent of 4515 (rc_wait:4515) (pid:4514)
 
-Round 81
+Round 92
  27 113 958 p3.c
-hello world (pid:4523)
-hello, I am parent of 4524 (rc_wait:4524) (pid:4523)
+hello world (pid:4521)
+hello, I am parent of 4522 (rc_wait:4522) (pid:4521)
 
-Round 82
+Round 93
  27 113 958 p3.c
-hello world (pid:4531)
-hello, I am parent of 4532 (rc_wait:4532) (pid:4531)
+hello world (pid:4528)
+hello, I am parent of 4529 (rc_wait:4529) (pid:4528)
 
-Round 83
+Round 94
  27 113 958 p3.c
-hello world (pid:4539)
-hello, I am parent of 4540 (rc_wait:4540) (pid:4539)
+hello world (pid:4535)
+hello, I am parent of 4536 (rc_wait:4536) (pid:4535)
 
-Round 84
+Round 95
  27 113 958 p3.c
-hello world (pid:4547)
-hello, I am parent of 4548 (rc_wait:4548) (pid:4547)
+hello world (pid:4542)
+hello, I am parent of 4543 (rc_wait:4543) (pid:4542)
 
-Round 85
+Round 96
  27 113 958 p3.c
-hello world (pid:4555)
-hello, I am parent of 4556 (rc_wait:4556) (pid:4555)
+hello world (pid:4549)
+hello, I am parent of 4550 (rc_wait:4550) (pid:4549)
 
-Round 86
+Round 97
+ 27 113 958 p3.c
+hello world (pid:4556)
+hello, I am parent of 4557 (rc_wait:4557) (pid:4556)
+
+Round 98
  27 113 958 p3.c
 hello world (pid:4563)
 hello, I am parent of 4564 (rc_wait:4564) (pid:4563)
 
-Round 87
- 27 113 958 p3.c
-hello world (pid:4571)
-hello, I am parent of 4572 (rc_wait:4572) (pid:4571)
-
-Round 88
- 27 113 958 p3.c
-hello world (pid:4588)
-hello, I am parent of 4589 (rc_wait:4589) (pid:4588)
-
-Round 89
- 27 113 958 p3.c
-hello world (pid:4596)
-hello, I am parent of 4597 (rc_wait:4597) (pid:4596)
-
-Round 90
- 27 113 958 p3.c
-hello world (pid:4607)
-hello, I am parent of 4608 (rc_wait:4608) (pid:4607)
-
-Round 91
- 27 113 958 p3.c
-hello world (pid:4615)
-hello, I am parent of 4616 (rc_wait:4616) (pid:4615)
-
-Round 92
- 27 113 958 p3.c
-hello world (pid:4623)
-hello, I am parent of 4624 (rc_wait:4624) (pid:4623)
-
-Round 93
- 27 113 958 p3.c
-hello world (pid:4631)
-hello, I am parent of 4633 (rc_wait:4633) (pid:4631)
-
-Round 94
- 27 113 958 p3.c
-hello world (pid:4648)
-hello, I am parent of 4649 (rc_wait:4649) (pid:4648)
-
-Round 95
- 27 113 958 p3.c
-hello world (pid:4660)
-hello, I am parent of 4661 (rc_wait:4661) (pid:4660)
-
-Round 96
- 27 113 958 p3.c
-hello world (pid:4668)
-hello, I am parent of 4669 (rc_wait:4669) (pid:4668)
-
-Round 97
- 27 113 958 p3.c
-hello world (pid:4687)
-hello, I am parent of 4688 (rc_wait:4688) (pid:4687)
-
-Round 98
- 27 113 958 p3.c
-hello world (pid:4728)
-hello, I am parent of 4729 (rc_wait:4729) (pid:4728)
-
 Round 99
  27 113 958 p3.c
-hello world (pid:4739)
-hello, I am parent of 4740 (rc_wait:4740) (pid:4739)
+hello world (pid:4570)
+hello, I am parent of 4571 (rc_wait:4571) (pid:4570)
 
 Round 100
  27 113 958 p3.c
-hello world (pid:4755)
-hello, I am parent of 4756 (rc_wait:4756) (pid:4755)
+hello world (pid:4577)
+hello, I am parent of 4578 (rc_wait:4578) (pid:4577)
 
